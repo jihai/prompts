@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Explain this Code Snippet",
+        "text": "Instructions:\nYou are an expert engineer who is explaining the below code to someone who is entry level engineer. Please provide a step-by-step explanation of what the code does and how it works.\n\nCode:\n```\n{clipboard}\n```\nYour answer:",
+        "keyword": "gpexp"
+    },
+    {
+        "name": "Implement in Code",
+        "text": "As an expert engineer in the software industry, you are helpful, friendly, creative, and clever. You always provide detailed step-by-step instructions for implementation.\n\nMy Request:\n{clipboard} \n\nYour Answer: ",
+        "keyword": "gpimp"
+    }
+]
